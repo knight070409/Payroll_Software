@@ -1,0 +1,14 @@
+E:\BOOK tutorials\C# in one\Payroll Software\bin\Debug\Payroll Software.exe.config
+E:\BOOK tutorials\C# in one\Payroll Software\bin\Debug\Payroll Software.exe
+E:\BOOK tutorials\C# in one\Payroll Software\bin\Debug\Payroll Software.pdb
+E:\BOOK tutorials\C# in one\Payroll Software\obj\Debug\Payroll Software.csproj.AssemblyReference.cache
+E:\BOOK tutorials\C# in one\Payroll Software\obj\Debug\Payroll Software.csproj.CoreCompileInputs.cache
+E:\BOOK tutorials\C# in one\Payroll Software\obj\Debug\Payroll Software.exe
+E:\BOOK tutorials\C# in one\Payroll Software\obj\Debug\Payroll Software.pdb
+E:\Payroll Software\bin\Debug\Payroll Software.exe.config
+E:\Payroll Software\bin\Debug\Payroll Software.exe
+E:\Payroll Software\bin\Debug\Payroll Software.pdb
+E:\Payroll Software\obj\Debug\Payroll Software.csproj.AssemblyReference.cache
+E:\Payroll Software\obj\Debug\Payroll Software.csproj.CoreCompileInputs.cache
+E:\Payroll Software\obj\Debug\Payroll Software.exe
+E:\Payroll Software\obj\Debug\Payroll Software.pdb
